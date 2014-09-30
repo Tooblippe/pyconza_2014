@@ -76,4 +76,4 @@ def plot_audio(fname):
 # Load and publish CSS
 #-----------------------------------------------------------------------------
 if __name__ == '__main__':
-    display(HTML(open('style.css').read()))
+    display(HTML(open('static/talktools/style.css').read()))
