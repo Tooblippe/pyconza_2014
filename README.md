@@ -3,7 +3,11 @@
 ![](static/img/eon.png)
 ![](static/img/pyconza.png)
 
-The talk will be presented using the IPython Notebook in presentation mode and aim to introduce these tools and explore some practical interactive examples. Some of the topics covered in the talk are listed below:
+### Background
+The talk will be presented using the IPython Notebook in presentation mode and aim to introduce these tools and explore some practical interactive examples. 
+
+### Contents
+Some of the topics covered in the talk are listed below:
 
 IPython Notebook basics:
 
@@ -19,13 +23,8 @@ IPython Notebook basics:
 * Quick Machine Learning example
 
 
-
-### Some usefull links
-* [view on NBVierwer](http://nbviewer.ipython.org/github/Tooblippe/ipython_csir/blob/master/csir_ipython.ipynb)
-
-
-### Running the notebook
-download the files and run
+### Running this notebook
+download the files and run the following command from the directory
 <pre>
 ipython notebook
 </pre>
