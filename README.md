@@ -1,4 +1,4 @@
-### Reproducible interactive computing using Python:
+### IPython Notebook
 
 ![](static/img/eon.png)
 ![](static/img/pyconza.png)
