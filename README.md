@@ -1,7 +1,7 @@
 ### Reproducible interactive computing using Python:
 
-![](eon.png)
-![](pyconza.png)
+![](static/img/eon.png)
+![](static/img/pyconza.png)
 
 The talk will be presented using the IPython Notebook in presentation mode and aim to introduce these tools and explore some practical interactive examples. Some of the topics covered in the talk are listed below:
 

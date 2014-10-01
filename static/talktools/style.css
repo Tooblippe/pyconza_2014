@@ -16,6 +16,7 @@ body {
   background: -ms-radial-gradient(center, circle cover, #f7fbfc 0%, #add9e4 100%);
   background: radial-gradient(center, circle cover, #f7fbfc 0%, #add9e4 100%);
   background-color: #f7fbfc; }
+  
 .talk-title
 {
   color: #333333;
@@ -105,7 +106,8 @@ body {
 .input_prompt, .CodeMirror-lines, .output_area
 {
   font-family: Consolas;
-  font-size: 140%;
+  font-size: 130%;
+
   
   }
 
